@@ -24,9 +24,15 @@ Global Superstore sales dataset (Kaggle), 51,290 rows.
 - Sales peak in November and December and are lowest in February.
 
 ## Screenshots
-![Overview](overview.png)
-![Trends](trends.png)
-![Products](products.png)
+<img width="911" height="498" alt="image" src="https://github.com/user-attachments/assets/8e25492e-1657-4ada-97d3-e0d1ac1824fa" />
+
+<img width="899" height="498" alt="image" src="https://github.com/user-attachments/assets/b6cfa886-f56f-4cf1-a0f8-02b83319796c" />
+
+<img width="837" height="497" alt="image" src="https://github.com/user-attachments/assets/280e1033-c591-41b8-bd14-145287958ccd" />
+
+<img width="881" height="498" alt="image" src="https://github.com/user-attachments/assets/eedb4cde-b385-4a7b-9966-c7e92bf99c07" />
+
+
 
 ## Tools
 Power BI Desktop, Power Query, DAX
